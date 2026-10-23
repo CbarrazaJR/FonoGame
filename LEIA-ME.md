@@ -58,7 +58,3 @@ FonoGame/
 ```
 
 Para alterar perguntas, edite **js/questions.js**, mantendo os identificadores únicos, as imagens correspondentes e uma resposta correta por pergunta. Não há dependências de pacotes externos. Os textos originais das licenças das fontes foram preservados.
-
-## Entrega no GitHub Pages
-
-Para os requisitos complementares da entrega, consulte PUBLICACAO-GITHUB-PAGES.md. O pacote inclui .nojekyll e usa index.html na raiz, com referências relativas aos arquivos. A publicação no GitHub Pages ainda não foi concluída. O roteiro de testes nos navegadores Chrome, Firefox e Edge e de validação com usuários está em VALIDACAO-USUARIO.md.
